@@ -1,0 +1,1 @@
+<% response.ContentType="application/javascript" %>{"id":"구라제","attDay":6}
